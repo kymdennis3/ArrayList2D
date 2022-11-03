@@ -27,6 +27,6 @@ public class Main {
         shopping.add(food);
         shopping.add(drinks);
 
-        System.out.println(shopping.get(0));
+        System.out.println(shopping.get(1).get(2));
     }
 }
