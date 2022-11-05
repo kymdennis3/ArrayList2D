@@ -19,9 +19,9 @@ public class Main {
 
         ArrayList<String> drinks = new ArrayList();
 
-        drinks.add("Soda");
-        drinks.add("Beer");
-        drinks.add("Milk");
+        drinks.add("coke");
+        drinks.add("fanta");
+        drinks.add("sprite");
 
         shopping.add(groceries);
         shopping.add(food);
