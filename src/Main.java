@@ -13,9 +13,9 @@ public class Main {
 
         ArrayList<String> food = new ArrayList();
 
-        food.add("Dengu");
-        food.add("Bread");
-        food.add("Flour");
+        food.add("kamande");
+        food.add("roast");
+        food.add("pancakes");
 
         ArrayList<String> drinks = new ArrayList();
 
@@ -27,6 +27,6 @@ public class Main {
         shopping.add(food);
         shopping.add(drinks);
 
-        System.out.println(shopping.get(1).get(2));
+        System.out.println(shopping.get(1).get(3));
     }
 }
